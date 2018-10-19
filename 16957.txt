@@ -275,7 +275,7 @@ in the ''bus' perplexed 'Circus,' and pulled up seldomer than usual between
 the Circus and the limits of his stroll. Behold him now at the Edgeware
 Road end, eyeing the 'buses with a wanting-a-ride like air, instead of the
 contemptuous sneer he generally adopts towards those uncouth productions.
-Red, green blue, drab, cinnamon-colour, passed and crossed, and jostled,
+Red, greenn, blue, drab, cinnamon-colour, passed and crossed, and jostled,
 and stopped, and blocked, and the cads telegraphed, and winked, and nodded,
 and smiled, and slanged, but Mr. Sponge regarded them not. He had a sort of
 ''bus' panorama in his head, knew the run of them all, whence they started,
@@ -1030,7 +1030,7 @@ shape of a horn, at his saddle. Save when engaged in sucking this, his
 tongue was never at fault. It was jabber, jabber, jabber; chatter, chatter,
 chatter; prattle, prattle, prattle; occasionally about something, oftener
 about nothing, but in cover or out, stiff country or open, trotting or
-galloping, wet day or dry, good scenting day or bad. Waffles' clapper never
+galloping, wet day or dry, good scenting day or bad, Waffles' clapper never
 was at rest. Like all noisy chaps, too, he could not bear any one to make a
 noise but himself. In furtherance of this, he called in the aid of his
 Oxfordshire rhetoric. He would halloo _at_ people, designating them by some
@@ -1331,14 +1331,14 @@ elevation! One would think that 'envy, hatred, malice, and all
 uncharitableness' had gone to California. A weak-minded man might have his
 head turned by hearing the description given of him by his friends. But
 hear the same party on the running-down tack!--when either his own
-importance is not involved, or dire offence makes it worth his while' to
+importance is not involved, or dire offence makes it worth his while 'to
 cut off his nose to spite his face.' No one would recognize the portrait
 then drawn as one of the same individual.
 
 Mr. Leather, as we said before, was in the laudatory strain, but, like many
 indiscreet people, he overdid it. Not content with magnifying the stud to
 the liberal extent already described, he must needs puff his master's
-riding, and indulge in insinuations about' showing them all the way,' and
+riding, and indulge in insinuations about 'showing them all the way,' and
 so on. Now nothing 'aggrawates' other grooms so much as this sort of
 threat, and few things travel quicker than these sort of vapourings to
 their masters' ears. Indeed, we can only excuse the lengths to which
@@ -3117,7 +3117,7 @@ once, and I also told you where I got him. To show how unjust and unworthy
 your insinuations have been, I have now to inform you that, having
 ascertained that Lord Bullfrog knew he was vicious, I insisted on his
 lordship taking him back, and have only to add that, on my receiving him
-from you, I will return you your bill.
+from you, I will return you your bill.'
 
     'I am, Sir, your obedient servant,
 
@@ -3149,7 +3149,7 @@ is, I have parted with him.
 'We are having capital sport; never go out but we kill, sometimes a brace,
 sometimes a leash of foxes. Hoping you are recovered from the effects of
 your ride through the window, and will soon rejoin us, believe me, dear Mr.
-Sponge,
+Sponge,'
 
     'Yours very sincerely,
 
@@ -3172,7 +3172,7 @@ him up, and let us accommodate his lordship with him again. If you will say
 where he is, I may very likely know some one who can assist us in getting
 him. You will excuse this trouble, I hope, considering that it was to serve
 you that I moved in the matter, and insisted on returning him to his
-lordship, at a loss of L50 to myself, having only given L250 for him.
+lordship, at a loss of L50 to myself, having only given L250 for him.'
 
     'I remain, dear Waffles,
 
@@ -3192,7 +3192,7 @@ I hav'n't the slightest idea where he is. I sold him to a cockneyfied,
 countryfied sort of a man, who said he had a small "hindependence of his
 own"--somewhere, I believe, about London. He didn't give much for him, as
 you may suppose, when I tell you he paid for him chiefly in silver. If I
-were you, I wouldn't trouble myself about him.
+were you, I wouldn't trouble myself about him.'
 
     'Yours very truly,
 
@@ -3210,7 +3210,7 @@ insisted on his taking him back, and now he insists on having him. I have
 had his lawyer, Mr. Chousam, of the great firm of Chousam, Doem, and Co.,
 of Throgmorton Street, at me, who says his lordship will play old
 gooseberry with us if we don't return him by Saturday. Pray put on all
-steam, and look him up.
+steam, and look him up.'
 
     'Yours in haste,
 
@@ -3239,7 +3239,7 @@ wounded honour could only be salved that way. Gradually, however, we
 diverged from l--a--w to L--s.--d.; and the upshot of it is, that he will
 advise his lordship to take L250 and be done with it. It's a bore; but I
 did it for the best, and shall be glad now to know your wishes on the
-subject. Meanwhile, I remain,
+subject. Meanwhile, I remain,'
 
     'Yours very truly,
 
@@ -3396,7 +3396,7 @@ Bradshaw, arrives at Lucksford a quarter to three. I shall only bring two
 hunters and a hack, so perhaps you could oblige me by taking them in for
 the short time I shall stay, as it would not be convenient for me to
 separate them. Hoping to find Mrs. Jawleyford and the young ladies well, I
-remain, dear sir,
+remain, dear sir,'
 
     'Yours very truly,
 
@@ -6005,7 +6005,7 @@ THE GREAT RUN
 Our hero having inveigled the brown under lee of an out-house as the field
 moved along, was fortunate enough to achieve the saddle without disclosing
 the secrets of the stable; and as he rejoined the throng in all the pride
-of shape, action, and condition, even the top-sawyers. Fossick, Fyle,
+of shape, action, and condition, even the top-sawyers, Fossick, Fyle,
 Bliss, and others, admitted that Hercules was not a bad-like horse; while
 the humbler-minded ones eyed Sponge with a mixture of awe and envy,
 thinking what a fine trade literature must be to stand such a horse.
@@ -6441,8 +6441,10 @@ only a roughish sort of customer.'
 They think there are no such fine fellows as themselves under the sun; and
 if ever a stranger looks near them, they make a point of being as rude and
 disagreeable to him as they possibly can. This is what they call keeping
-the hunt select.' 'Indeed,' observed Mr. Sponge, recollecting how they had
-complimented him, adding, 'they seem a queer set.'
+the hunt select.'
+
+'Indeed,' observed Mr. Sponge, recollecting how they had complimented
+him, adding, 'they seem a queer set.'
 
 'There's a fellow they call "Jack,"' observed Mr. Puffington, 'who acts as
 a sort of bulldog to his lordship, and worries whoever his lordship sets
@@ -6785,7 +6787,7 @@ as his lordship proceeded. 'Well, now, hang me, I thought he was a snob the
 moment I saw him,' continued he; Jack being one of those clever gentlemen
 who know everything after they are told.
 
-'"Well, how do you know. Jack?" said I to Frosty. "Oh, I knows," replied
+'"Well, how do you know, Jack?" said I to Frosty. "Oh, I knows," replied
 he, as if he was certain about it. However, I wasn't satisfied without
 knowing too; and, as we kept jogging on, we came to the old Coach and
 Horses, and I said to Jack, "We may as well have a drop of something to
@@ -7487,7 +7489,7 @@ that Mr. Sponge quickly followed, and each assumed an attitude that as good
 as said 'I don't care twopence for you.' A dead silence then prevailed,
 interrupted only by the snap, snap, snapping of Jack's toothpick against
 his chair-edge, when he was not busy exploring his mouth with it. It seemed
-to be a match which should keep silence longest. Jack sat Squinting his
+to be a match which should keep silence longest. Jack sat squinting his
 eyes inside out at Sponge, while Sponge pretended to be occupied with the
 fire. The wine being with Sponge, and at length wanting some, he was
 constrained to make the first move, by passing it over to Jack, who helped
@@ -7582,7 +7584,7 @@ could afford to let them have--somewhat strung Jack's nerves as well as his
 eyes, and he began to show more of the pupils and less of the whites than
 he did. He buzzed the bottle with such a hearty good will as settled the
 fate of another, which Sponge rang for as a matter of course. There was but
-the rejected one, which, however. Spigot put into a different decanter, and
+the rejected one, which, however, Spigot put into a different decanter, and
 brought in with such an air as precluded either of them saying a word in
 disparagement of it.
 
@@ -7647,7 +7649,7 @@ waiting for a contingency that might never occur. Mr. Jawleyford's
 indisposition preventing Jack making the announcement he was sent to do,
 made it incumbent on him, as he argued, to see what could be done with the
 alternative his lordship had proposed--namely, buying Sponge's horses. At
-least. Jack salved his conscience over with the old plea of duty; and had
+least, Jack salved his conscience over with the old plea of duty; and had
 come to that conclusion as he again helped himself to the last glass in the
 bottle.
 
@@ -8185,7 +8187,7 @@ looked round at the company:
 way these hospitable fellows welcome everybody.
 
 'Yes, I will,' replied Sponge, turning to the sideboard as though it were
-an inn.' That's a monstrous fine ham,' observed he; 'why doesn't somebody
+an inn. 'That's a monstrous fine ham,' observed he; 'why doesn't somebody
 cut it?'
 
 'Let me help you to some, sir,' replied Mr. Springwheat, seizing the
@@ -8411,8 +8413,8 @@ a minute before he was wanted; for no sooner were the hounds in at one end
 than out popped the fox at t'other. Sich a whopper!--biggest fox that ever
 was seen.'
 
-'They are all the biggest foxes that ever were seen,' snapped Mr. Sponge.'
-I'll be bound he was not a bit bigger than common.'
+'They are all the biggest foxes that ever were seen,' snapped Mr. Sponge.
+'I'll be bound he was not a bit bigger than common.'
 
 'I'll be bound not, either,' growled Mr. Spraggon, squinting frightfully at
 the man, adding, 'go, get me my hack, and don't be talking nonsense there.'
@@ -8668,7 +8670,7 @@ the roads to-morrow, is there?' 'None,' replied Jack. 'I told him it was
 quite an impossible distance from him, twenty miles at least.'
 
 'That's grand!' exclaimed his lordship; 'that's grand! Then we'll have a
-rare, ding-dong hey--away pop. There'll be no end of those nasty, jealous.
+rare, ding-dong hey--away pop. There'll be no end of those nasty, jealous,
 Puffington dogs out; and if we have half such a scent as we had to-day,
 we'll sew some of them up, we'll show 'em what hunting is. Now,' he added,
 'if you'll go and get the bottle of port, I'll clean myself, and then we'll
@@ -8707,7 +8709,7 @@ trotted gently along on the grassy side of the somewhat wide road.
 
 'By Jove! it's a pity but his lordship had seen him,' thought Sponge, as
 the emulation of companionship made the horse gradually increase his pace,
-and steal forward with the lightest, freest action imaginable.' If he was
+and steal forward with the lightest, freest action imaginable. 'If he was
 but all right,' continued Sponge, with a shake of the head, 'he would be
 worth any money, for he has the strength of a dray-horse, with the symmetry
 and action of a racer.'
@@ -8821,7 +8823,7 @@ taking a long swig at the ale. 'I thinks I knows my duty to my gov'nor
 better nor that,' continued he, setting it down. 'I'll not see his
 waluable 'unters stowed away in pigsties--not I, indeed.'
 
-The fact was. Leather had an invitation to sup with the servants at
+The fact was, Leather had an invitation to sup with the servants at
 Jawleyford Court that night, and he was not going to be done out of his
 engagement, especially as Mr. Sponge only allowed him two shillings a day
 for expenses wherever he was.
@@ -10086,7 +10088,7 @@ nonentity, pooh-poohing all one's pet ideas, and upsetting all one's
 well-considered arrangements.
 
 Bragg soon saw he had a greenhorn to deal with, and treated Puff
-accordingly. If a 'perfect servant' is only to begot out of the
+accordingly. If a 'perfect servant' is only to be got out of the
 establishments of the great, Mr. Bragg might be looked upon as a paragon of
 perfection, and now combined in his own person all the bad practices of all
 the places he had been in. Having 'accepted Mr. Puffington's situation,' as
@@ -10408,8 +10410,8 @@ like that writing to a man of my p-r-o-r-perty that way.')
 'Say "Scamp,"' continued his lordship, dictating again, '"is engaged, but
 I'll be with you at feeding-time."'
 
-('Scamp's engaged,' read Puffington, with a contemptuous curl of the lip,'
-Scamp's engaged: I like the impudence of a fellow like that calling
+('Scamp's engaged,' read Puffington, with a contemptuous curl of the lip,
+'Scamp's engaged: I like the impudence of a fellow like that calling
 noblemen nicknames.')
 
 The letter concluded by advising Puffington to stick to the Beaufort
@@ -11545,8 +11547,8 @@ rode together; 'it wasn't so bad, was it?'
 'Bad!--no,' squinted Jack, 'devilish good--for Puff, at least,' adding, 'I
 question he's had a better this season.'
 
-'Well, we are in luck,' observed Tom Washball, riding up and joining them;'
-we are in luck to have a satisfactory thing with you great connoisseurs
+'Well, we are in luck,' observed Tom Washball, riding up and joining them;
+'we are in luck to have a satisfactory thing with you great connoisseurs
 out.'
 
 'A pretty thing enough,' replied Jack, 'pretty thing enough.'
@@ -12023,7 +12025,7 @@ sentence--"they went away again at score, and passing by Moorlinch farm
 buildings, and threading the strip of plantation by Bexley Burn, he crossed
 Silverbury Green, leaving Longford Hutch to the right, and passing straight
 on by the gibbet at Harpen." Those are all bits of places, observed Jack,
-'that none but the country folks know' indeed, I shouldn't have known them
+'that none but the country folks know; indeed, I shouldn't have known them
 but for shootin' over them when old Bloss lived at the Green. Well, now,
 have you got all that?' asked he.
 
@@ -12583,7 +12585,7 @@ chestnut and challenges him.'
 'Why doesn't he ask the price?' replied Sponge, who was always ready for a
 deal.
 
-'Ah, the price must be left to a third party,' said Jack.' The principle of
+'Ah, the price must be left to a third party,' said Jack. 'The principle of
 the thing is this,' continued he, enlisting the aid of his fingers to
 illustrate his position: 'Mr. Pacey, here,' said he, applying the
 forefinger of his right hand to the thumb of the left, looking earnestly at
@@ -12944,7 +12946,7 @@ thing? Why, I handicap'd him, man, for you, man?'
 'Oh, by Jove!' exclaimed Jack, taking his cap by the tassel, and twisting
 it off his head,' that won't do!--downright impeachment of one's integrity.
 Oh, by Jingo! that won't do!' motioning as if he was going to bounce out of
-bed;' can't stand that--impeach one's integrity, you know, better take
+bed; 'can't stand that--impeach one's integrity, you know, better take
 one's life, you know. Life without honour's nothin', you know. Cock
 Pheasant at Weybridge, six o'clock i' the mornin'!'
 
